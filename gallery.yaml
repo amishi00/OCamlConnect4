@@ -1,0 +1,25 @@
+---
+group:
+  - name: Amishi Gupta
+    netid: ag2424
+  - name: Alisha Varma
+    netid: av523
+  - name: Ravnoor Bedi
+    netid: rb895
+pm:
+  name: Juntao Lei
+  netid: jl2663
+
+publish: true
+
+title: "Connect 4 All"
+git-repo: "https://github.coecis.cornell.edu/rb895/final_3110.git"
+demo-video-url: ""
+desc: >
+  Our project is an interactive game of Connect 4. It supports standard operations 
+  such as players adding their individual tokens represented by 'R' for the red player and 
+  'B' for the blue player. In our terminal interface, the game signals a win if one 
+  player gets 4 of their tokens in a row horizontally, vertically, or diagonally 
+  or a draw if every column and row is full. With various player modes (as selected
+  by the user), statistics of the game rounds presented, and player score tracking, 
+  Connect 4 All is taken to a new level with a more engaging and creative user interface.

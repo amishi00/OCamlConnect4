@@ -1,4 +1,5 @@
 (executable
  (public_name final_3110)
  (name main)
- (libraries final_3110 lablgtk2))
+ (libraries final_3110 unix) (instrumentation
+  (backend bisect_ppx)))
