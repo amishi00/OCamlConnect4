@@ -1,0 +1,8 @@
+Instructions: 
+1. Install LablGTK GUI library using the following instructions :
+(adapted from: https://github.com/garrigue/lablgtk)
+  a. install lablgtk by running 'opam install lablgtk' on computer
+  b. While we do not use this library in this program, we are planning to 
+    incorporate it in later submissions.
+2. to build the program, run 'dune build'
+3. to execute the program, run 'dune exec bin/main.exe'
